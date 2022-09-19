@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    div.topnav
+        a.top(href="/"  onclick="navigate(1)") Home 
+        a.top(href="/resume" onclick ="navigate(2)") Resume
+        a.active.top(href="/contact" onclick = "navigate(3)") Contact Me
+    script(src="/javascripts/topnav.js")
+    div.contact 
+        div.touch Let's Connect!
+        p I'm currently looking for new opportunities as a software engineer or web developer and I would love to get in touch!
+        div
+        div Phone: 503-706-8755
+        div Email: ravenlickey@gmail.com
+        a(href="https://linkedin.com/in/raven-lickey-82aa95237/") LinkedIn: Raven Lickey
