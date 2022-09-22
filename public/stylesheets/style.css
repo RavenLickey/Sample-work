@@ -16,6 +16,17 @@
 .resume{
   text-align: center;
 }
+.photo1, .photo2, .photo3{
+  max-width: 25%;
+}
+.photo1{
+  margin-left: 11.5%;
+  margin-right: 1%;
+}
+.photo3{
+  margin-left: 1%;
+  margin-right: 11.5%;
+}
 .contact{
   color: #f2f2f2;
   text-align: center;
