@@ -17,7 +17,7 @@
   text-align: center;
 }
 .photo1, .photo2, .photo3{
-  max-width: 472px;
+  max-width: 25%;
   max-height: 620px;
 }
 .photo1{
