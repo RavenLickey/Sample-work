@@ -18,7 +18,7 @@
 }
 .photo1, .photo2, .photo3{
   max-width: 25%;
-  max-height: 620px;
+  max-height: 100%;
 }
 .photo1{
   margin-left: 11.5%;
